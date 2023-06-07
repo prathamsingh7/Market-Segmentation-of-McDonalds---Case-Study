@@ -1,1 +1,1 @@
-# Market-Segmentation-of-McDonalds---Case-Study
+# Market-Segmentation-of-McDonalds-Case-Study
